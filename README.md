@@ -5,5 +5,4 @@
 
 ----
 
-## What I do
 I solve problems.
