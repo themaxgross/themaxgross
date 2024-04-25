@@ -11,6 +11,6 @@ I'm a software engineer with a passion for building things that make people's li
 
 I'm currently with [KrakenFlex](https://krakenflex.com), a platform for managing energy assets. I'm also working on a few side projects, including [a plugin for Tailwind to support text-balance](https://github.com/theleoji/tailwindcss-text-balance). 
 
-🌐 Find me on the fediverse at [@maxgross@tech.lgbt](https://tech.lgbt/@maxgross)!
+🌐 Find me on the fediverse at [@maxgross@alpaca.gold](https://alpaca.gold/@maxgross).
 
 ----
