@@ -8,7 +8,7 @@ Currently, that code (and software) is at @octoenergy, doing my little bit to ma
 
 - **Bluesky**: [@maxgross.dev](https://bsky.app/profile/maxgross.dev)
 
-## Some identity verifications
+## 🪪 Some identity verifications
 
 ### Are we connected on iMessage? 
 
