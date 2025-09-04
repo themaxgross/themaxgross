@@ -6,7 +6,7 @@ Currently, that code (and software) is at @octoenergy, doing my little bit to ma
 
 ## 📫 Get in Touch
 
-- **Bluesky**: [@maxgross.dev](https://bsky.app/profile/maxgross.dev)
+- **Bluesky**: [@maxgross.io](https://bsky.app/profile/maxgross.io)
 
 ## 🪪 Some identity verifications
 
