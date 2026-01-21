@@ -6,6 +6,7 @@ Currently, that code (and software) is at @octoenergy, doing my little bit to ma
 
 ## 📫 Get in Touch
 
+- **Fediverse**: [@maxgross@alpaca.gold](https://alpaca.gold/@maxgross)
 - **Bluesky**: [@maxgross.io](https://bsky.app/profile/maxgross.io)
 
 ## 🪪 Some identity verifications
